@@ -1,1 +1,3 @@
-# .github
+# NenCloud
+
+Discord bots made easy.
